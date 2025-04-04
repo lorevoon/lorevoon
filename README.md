@@ -9,8 +9,8 @@ Languages and tools: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="height: 35px; width: 35px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="height: 35px; width: 35px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="height: 35px; width: 35px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="height: 35px; width: 35px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="height: 35px; width: 35px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="height: 35px; width: 35px;" />
 
 <br>
 I previously worked on a <a href="https://github.com/Stree0408/ENGG1340_G49-">C++ Termial Minesweeper</a>!
