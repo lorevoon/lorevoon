@@ -1,7 +1,7 @@
 Hello, I'm Zoe!
 
 - 🌱 I’m currently learning game development & data science!
-- 📫 How to reach me: zoejsy22@gmail.com and <a href="https://www.linkedin.com/in/seyeon-jung-019188325/">Linkedin</a>
+- 📫 How to reach me: zoejsy22@gmail.com
 - 🎮 Visit my <a href="https://lorevoon.itch.io/">Itch.io</a> page!
 
 Languages and tools: <br>
