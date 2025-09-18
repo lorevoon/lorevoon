@@ -1,6 +1,7 @@
 Hello, I'm Zoe!
+안녕하세요 정세연입니다!
 
-- 🌱 I’m currently learning game development & data science!
+- 🌱 I’m currently studying game graphics programming & data science!
 - 📫 How to reach me: zoejsy22@gmail.com
 - 🎮 Visit my <a href="https://lorevoon.itch.io/">Itch.io</a> page!
 
