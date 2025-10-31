@@ -8,7 +8,7 @@ Hello, I'm Zoe! 안녕하세요 정세연입니다!
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,c,python,unity,unreal,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,lua,unity,unreal,git" />
   </a>
 </p>
 
